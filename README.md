@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm passionate about the applications of machine learning to healthcare, so I've been using a lot of...</p>
+<p align="left">I'm passionate about the applications of machine learning to healthcare</p>
 
 ###
 
