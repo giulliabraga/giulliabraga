@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm passionate about the applications of machine learning to healthcare</p>
+<p align="left">I'm passionate about the applications of machine learning to healthcare, and here are my favorite technologies... </p>
 
 ###
 
@@ -33,9 +33,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="opencv logo"  />
 </div>
-
-###
-
-<p align="left">Always curious and open for collaboration!</p>
 
 ###
