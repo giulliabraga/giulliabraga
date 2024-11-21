@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm passionate about the applications of machine learning and neural networks to problem solving, most particularly in healthcare, so here are some of the tools I've been using</p>
+<p align="left">I'm passionate about the applications of machine learning to healthcare, so I've been using a lot of...</p>
 
 ###
 
