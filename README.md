@@ -8,15 +8,9 @@
 
 ###
 
-<p align="left">Some things about me...<br><br>👩‍💻 Msc Student in Computer Science @ UFPE<br>🦾 Bachelor in Biomedical Engineering @ UFPE & Grenoble INP</p>
+<p align="left">Some things about me...<br><br>👩‍💻 Msc in Computer Science @ UFPE<br>🦾 Bachelor in Biomedical Engineering @ UFPE & Grenoble INP</p>
 
-###
-
-<p align="left">But I'm also...<br><br>🏳️‍🌈 Really proud<br>🧑‍🏫 English teacher<br>🧙‍♂️ Lord of the rings lunatic</p>
-
-###
-
-<p align="left">I'm passionate about the applications of machine learning to healthcare, and here are my favorite technologies... </p>
+<p align="left">I'm passionate about the applications of machine learning in healthcare, and here are my favorite technologies... </p>
 
 ###
 
